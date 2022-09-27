@@ -8,8 +8,8 @@ return true;
 ```
 
 Here's a link to my [LinkedIn Profile](https://www.linkedin.com/in/finch-shi-92252b239/).
-[Back to Top](#Welcome-to-Jingxin(Finch)-Shi'-s-github-pages!)
-[README.md](README.md)
+
+
 ![My profiel photo](profilePhoto.jpg)
 
 My Hobbies are:
@@ -26,3 +26,7 @@ Things I want to do before my 21:
 - [x] SkyDiving
 - [ ] Aurora-gazing
 - [x] Keep a cat
+
+[README.md](README.md)
+
+[Back to Top](#Welcome-to-Jingxin(Finch)-Shi'-s-github-pages!)
