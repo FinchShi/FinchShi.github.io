@@ -1,5 +1,5 @@
 # Welcome to Jingxin(Finch) Shi' s github pages!
-*** this site is still under construction! ***
+***this site is still under construction!***
 > For better or worse, this is my first personal website :)
 
 ```
