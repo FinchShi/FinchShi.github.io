@@ -1,4 +1,5 @@
-# Welcome to Jingxin(Finch) Shi' s github pages!
+### Welcome!
+# to Jingxin(Finch) Shi' s github pages!
 ***this site is still under construction!***
 > For better or worse, this is my first personal website :)
 
@@ -29,4 +30,4 @@ Things I want to do before my 21:
 
 [README.md](README.md)
 
-[Back to Top](#Welcome-to-Jingxin(Finch)-Shi'-s-github-pages!)
+[Back to Top](#welcome)
